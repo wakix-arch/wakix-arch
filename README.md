@@ -1,16 +1,16 @@
-# Привет, меня зовут Амирхан! 👋
+# Hi, I'm Amirkhan! 👋
 
-Вайб-коддинг и разработка полезных сервисов: Telegram-боты, автоматизация процессов и десктопные утилиты.
+Vibe-coding and building useful services: Telegram bots, process automation, and desktop tools.
 
-## 🛠 Технологический стек
+## 🛠 Tech Stack
 - **Languages:** Python, C++
 - **Frameworks & Libraries:** python-telegram-bot, Flask, Tkinter, Pandas
 - **Tools & Databases:** Git, SQLite, VS Code, REST API
 
-## 📌 Проекты
-- 🤖 **[Telegram Lead & CRM Bot](https://github.com/wakix-arch/Telegram-Lead-Bot)** — асинхронный бот для сбора заявок с CRM-панелью и экспортом в Excel.
-- 📄 **[Commercial Offer Generator](https://github.com/wakix-arch/KP-Generator)** — GUI-приложение для автоматической генерации КП в DOCX.
+## 📌 Projects
+- 🤖 **[Telegram Lead & CRM Bot](https://github.com/wakix-arch/Telegram-Lead-Bot)** — Async Telegram bot for lead generation with a CRM panel and Excel export.
+- 📄 **[Commercial Offer Generator](https://github.com/wakix-arch/KP-Generator)** — Desktop GUI app for automated commercial proposal generation in DOCX format.
 
-## 📫 Связь со мной
+## 📫 Connect with Me
 - **Telegram:** [@wakix_a](https://t.me/wakix_a)
 - **Email:** [ps4onlyslim@gmail.com](mailto:ps4onlyslim@gmail.com)
