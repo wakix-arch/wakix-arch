@@ -12,5 +12,5 @@
 - 📄 **[Commercial Offer Generator](https://github.com/wakix-arch/KP-Generator)** — GUI-приложение для автоматической генерации КП в DOCX.
 
 ## 📫 Связь со мной
-- Telegram: [@wakix_a]
-- Email: [ps4onlyslim@gmail.com]
+- **Telegram:** [@wakix_a](https://t.me/wakix_a)
+- **Email:** [ps4onlyslim@gmail.com](mailto:ps4onlyslim@gmail.com)
