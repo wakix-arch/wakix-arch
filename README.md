@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет, меня зовут Амирхан! 👋
 
-<!--
-**wakix-arch/wakix-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Вайб-коддинг и разработка полезных сервисов: Telegram-боты, автоматизация процессов и десктопные утилиты.
 
-Here are some ideas to get you started:
+## 🛠 Технологический стек
+- **Languages:** Python, C++
+- **Frameworks & Libraries:** python-telegram-bot, Flask, Tkinter, Pandas
+- **Tools & Databases:** Git, SQLite, VS Code, REST API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Проекты
+- 🤖 **[Telegram Lead & CRM Bot](https://github.com/wakix-arch/Telegram-Lead-Bot)** — асинхронный бот для сбора заявок с CRM-панелью и экспортом в Excel.
+- 📄 **[Commercial Offer Generator](https://github.com/wakix-arch/KP-Generator)** — GUI-приложение для автоматической генерации КП в DOCX.
+
+## 📫 Связь со мной
+- Telegram: [@wakix_a]
+- Email: [ps4onlyslim@gmail.com]
