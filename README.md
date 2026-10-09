@@ -1,6 +1,6 @@
 # Hi, I'm Amirkhan! 👋
 
-Vibe-coding and building useful services: Telegram bots, process automation, and desktop tools.
+Python developer building backend services, Telegram bots, and business automation tools.
 
 ## 🛠 Tech Stack
 - **Languages:** Python, C++
